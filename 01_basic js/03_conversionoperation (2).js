@@ -33,3 +33,34 @@ let abc ="shrushti"
 
 let cat=Boolean(abc)
 console.log(cat);
+
+// ...................................................................................................
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%2);
+// console.log(2**2);
+// 
+
+
+
+let str1 ="hello"
+let str2 =" shrushti"
+
+let str3 = str1+ str2
+console.log(str3);//string ne joined karse...
+
+console.log(1+1+"2");//22
+console.log("2"+1+1);//211
+
+// ....................................................
+
+
+
+
+
+
+
